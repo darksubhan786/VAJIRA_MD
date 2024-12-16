@@ -1,5 +1,5 @@
 {
-  "name": "VAJIRA-MD",
+  "name": "DARKSUBHAN-MD",
   "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://pomf2.lain.la/f/aqi35mmg.jpg",
   "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
@@ -9,10 +9,10 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "put session id here darksubhan"
         },
     "OWNER_NUMBER": {
-            "description": "Type Your Number Here",
+            "description": "Type Your Number 923127067592",
             "required": true,
             "value": ""
         }
